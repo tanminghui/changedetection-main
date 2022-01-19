@@ -1,4 +1,3 @@
-# Taken from https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/
 # Description
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
@@ -29,3 +28,5 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
+
+_Taken from https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/_
