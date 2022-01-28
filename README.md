@@ -1,5 +1,3 @@
-![Build Status](https://github.com/procter-gamble/changedetection/workflows/Python%20Linting/badge.svg)
-
 changedetection
 ==============================
 
