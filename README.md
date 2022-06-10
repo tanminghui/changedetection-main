@@ -1,7 +1,9 @@
+![Build Status](https://github.com/procter-gamble/changedetection/workflows/Python%20Linting/badge.svg)
+
 changedetection
 ==============================
 
-Remote Sensing Project in Collaboration with NUS 2022
+Remote Sensing Project in Collaboration with NUS
 
 ### Library Developers
 
